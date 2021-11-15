@@ -1,0 +1,57 @@
+body {
+  margin: 0; /* when there's no CSS its good to have margin at 0 so there's no content stuck to the side, improves readability. */
+}
+
+a:hover {
+  background-color: red;
+}
+
+.title {
+  font-size: 72px;
+  color: white;
+  padding: 25px 0;
+  background-color: black;
+  text-align: center;
+  margin-top: 0;
+}
+
+.subhead {
+  background-color: #281b2d;
+  color: #fcd801;
+  font-size: 48px;
+  padding: 50px;
+  border-bottom-style: solid;
+  border-bottom-width: 5px;
+  border-bottom-color: #00c54c;
+  padding-left: 80px;
+  padding-right: 80px;
+}
+
+.white-text {
+  color: #fff;
+}
+
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0 auto;
+}
+
+.columns {
+  display: flex;
+}
+
+.col-right {
+  margin-left: 25px;
+}
+
+.col-left {
+  margin-right: 25px;
+}
+
+.sidebar {
+  margin: 25px;
+  background-color: #9ae84f;
+  padding: 25px;
+  border-radius: 25px;
+}
