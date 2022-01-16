@@ -1,0 +1,32 @@
+html, body {
+    margin: 10;
+    padding: 10;
+    text-align: center;
+    background-color: #D3DEDC;
+    font-family: 'Roboto', sans-serif;
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    width: 200px;
+    height: 200px;
+    border: solid 2px black;
+    margin: auto;
+    
+}
+
+.square {
+    width: 20px;
+    height: 20px;
+}
+
+.snake {
+    background-color: green;
+}
+
+.apple {
+    background-color: #D9534F;
+}
+
+
