@@ -1,4 +1,4 @@
-import { getDiceRollArray, getDicePlaceholderHtml, getPercentage } from './utils.js'
+import { getDiceRollArray, getDicePlaceholderHtml, getPercentage } from './utils'
 
 class Character {
     constructor(data) {
