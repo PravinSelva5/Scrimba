@@ -14,7 +14,7 @@ img {
 
 .card {
   width: 400px;
-  margin: 0 auto;
+  margin: 50px auto;
   padding: 20px;
   display: flex;
   border-radius: 25px;
