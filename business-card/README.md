@@ -1,2 +1,3 @@
 # Business Card
-<img width="488" alt="business-card" src="https://user-images.githubusercontent.com/25359882/186566824-1fcf77d1-337c-4b77-909f-0462bcf70cc9.png">
+
+![Screen Shot 2022-08-24 at 11 33 58 PM](https://user-images.githubusercontent.com/25359882/186568643-a90049c9-2c03-49ef-a968-4db1b9d8e300.png)
