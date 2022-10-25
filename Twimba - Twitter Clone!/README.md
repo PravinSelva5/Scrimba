@@ -1,6 +1,5 @@
 # Twimba: Twitter Clone
 
-Status: In progress
 
 - Textarea
   - multiline input field
